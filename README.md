@@ -5,12 +5,12 @@
 ## Installation
 ```sh
 yarn add react-native-exif
-react-native link
+react-native link react-native-exif
 ```
 or
 ```sh
 npm install react-native-exif --save
-react-native link
+react-native link react-native-exif
 ```
 
 ## Usage
